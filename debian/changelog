@@ -1,0 +1,5 @@
+mingw-w64-xz (5.2.3-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Tobias Schlemmer <keinstein@users.berlios.de>  Fri, 05 Jan 2018 09:56:08 +0100
